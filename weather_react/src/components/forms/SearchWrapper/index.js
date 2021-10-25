@@ -1,0 +1,1 @@
+import SearchWrapper from "./SearchWrapper";
